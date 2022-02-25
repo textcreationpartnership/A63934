@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The joyful news of opening the exchequer to the gold-smiths of Lombard-street, and their creditors as it was celebrated in a letter to the same friend in the countrey, to whom the bankers case was formerly sent / by the author of the same case.</title>
+            <author>Turner, Thomas, d. 1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63934</idno>
+            <idno type="STC">Wing T3339</idno>
+            <idno type="STC">ESTC R17753</idno>
+            <idno type="EEBO-CITATION">12256419</idno>
+            <idno type="OCLC">ocm 12256419</idno>
+            <idno type="VID">57556</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63934)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57556)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 901:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The joyful news of opening the exchequer to the gold-smiths of Lombard-street, and their creditors as it was celebrated in a letter to the same friend in the countrey, to whom the bankers case was formerly sent / by the author of the same case.</title>
+                  <author>Turner, Thomas, d. 1679.</author>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.N. for William Place ... and Thomas Basset ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Attributed to Thomas Turner. cf. NUC pre-1956.</note>
+                  <note>Signed: Tho. Turner.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Economic conditions --  17th century.</term>
+               <term>Great Britain --  Commercial policy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57556:1"/>
+            <!-- PDF PAGE 25 -->
+            <pb facs="tcp:57556:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <p>The Joyful News OF OPENING THE EXCHEQUER TO THE GOLD-SMITHS OF <hi>Lombard-ſtreet,</hi> and their CREDITORS.</p>
+            <p>As it was celebrated in a <hi>LETTER</hi> to the ſame Friend in the Countrey, to whom the Bankers Caſe was formerly ſent.</p>
+            <p>By the Author of the ſame CASE.</p>
+            <q>
+               <p>Juſtitiâ ſtabilitur Solium.</p>
+               <bibl>
+                  <hi>Prov. 16.12.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Optimè hoc Exemplum Principi conſtituo, ut ſe talem Civibus praebeat, quales Sibi Deos velit</p>
+               <bibl>
+                  <hi>Seneca de Clementia, Lib. 1. Sect. 7.</hi>
+               </bibl>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenſed, <hi>April</hi> 7. 1677.</p>
+                        <closer>
+                           <signed>ROGER L'ESTRANGE.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. N.</hi> for <hi>William Place,</hi> at <hi>Grays-Inn-Gate</hi> in <hi>Holborn;</hi> and <hi>Thomas Baſſet,</hi> at the <hi>George</hi> near <hi>Cliffords-Inn</hi> in <hi>Fleet-ſtreet.</hi> M.DC.LXXVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:57556:2"/>
+            <!-- PDF PAGE 26 -->
+            <pb n="3" facs="tcp:57556:2"/>
+            <!-- PDF PAGE 26 -->
+            <head>
+               <hi>The Joyful News of</hi> Opening the Exchequer to the Goldſmiths of <hi>Lombard-ſtreet,</hi> and their Creditors, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am now to inform you of one of the moſt glorious Pieces of <hi>Royal Juſtice,</hi> that perhaps any Age hath afforded. <hi>His Majeſty hath heard the Cries of his Loyal Subjects, and</hi> (in imitation of the Divi<g ref="char:EOLhyphen"/>nity) <hi>hath been pleaſed to come down and deliver them.</hi> I will no longer either amuſe or torture you with Expectation, but ſhall now at once overwhelm you with the <hi>Joyful Tidings: The King hath ſetled the Debt of the Gold-ſmiths, and their Creditors, and the Letters Patents are now ennobled under the Great Seal of</hi> England.</p>
+            <p>When this Heroic Act of <hi>Juſtice</hi> was lately propos'd by His <hi>Majeſty</hi> in Council, the <hi>Noble Lords, and other the Worthies of the Council,</hi> aſſented thereunto, with the moſt generous Unanimity and Concurrence that ever hath been known, not ſo much as one contradicting.</p>
+            <p>And particularly that <hi>Noble Lord,</hi> who hath the Admi<g ref="char:EOLhyphen"/>niſtration
+<pb n="4" facs="tcp:57556:3"/>
+               <!-- PDF PAGE 27 -->of the <hi>Treaſury,</hi> hath, upon every occaſion, con<g ref="char:EOLhyphen"/>tributed to it all the furtherance imaginable.</p>
+            <p>Neither is it to be forgotten, that <hi>One Illuſtrious Perſon,</hi> who in truth was concern'd to have obſtructed this Settle<g ref="char:EOLhyphen"/>ment with all his vigour and puiſſance, (for I ſhould have told you, this Debt is charged upon the <hi>Hereditary</hi> part of the Exciſe) was pleas'd notwithſtanding to relinquiſh his own Intereſt, and the Grandeur of his Perſon, to that degree, as to become even the very indefatigable <hi>Sollicitor</hi> therein. I ſay <hi>Sollicitor,</hi> for by that very word himſelf was often pleaſed to expreſs his Fervour and Zeal for the ac<g ref="char:EOLhyphen"/>compliſhment of this Buſineſs. An Action certainly of great Glory! fit indeed to be illuſtrated with a Beam of the Sun! and to be celebrated with due praiſe by every good Engliſhman to the end of the World!</p>
+            <p>I remember you told me two or three Moneths ago, that this <hi>Debt</hi> had been then dead and buried five years compleat, and that Miracles were ceas'd, and therefore Men did in vain expect the Reſurrection thereof. But you ſee now it is a Prerogative peculiar to <hi>God,</hi> and his Vicegerent the <hi>King,</hi> to reſtore to Life and Vigour, what, in humane Apprehenſion, was long ſince dead and ex<g ref="char:EOLhyphen"/>tinct.</p>
+            <p>Sir, This Glorious Action hath repleniſh'd all Places here with Exultation! An inexpreſſible Joy hath here<g ref="char:EOLhyphen"/>upon invaded all mens Souls! Upon the breaking this Box of Precious Ointment, the whole Kingdom is fill'd with the Redolency and Sweetneſs thereof! If I ſhould tell you, that this happy News was received here with the ſame Tranſports of Gladneſs, that thoſe People which inhabit that part of the Globe, where there is a Six moneths continued darkneſs, do entertain the firſt Returns of the Sun, I ſhould give you but a very languid and faint re<g ref="char:EOLhyphen"/>preſentation
+<pb n="5" facs="tcp:57556:3"/>
+               <!-- PDF PAGE 27 -->of the Joy; for indeed, while I labour to diſcloſe ſo ſtupendious a paſſion, I find <hi>Nature</hi> wanting to me in Metaphors and Similitudes. It ſhall ſuffice me then to tell you onely, That the Tears of the <hi>Widow</hi> are now dried up, the Cries of the <hi>Orphan</hi> are quieted; that the <hi>Aged poor man</hi> weeps no longer, unleſs it be for ex<g ref="char:EOLhyphen"/>ceſſive joy; and that all <hi>Mankind</hi> here hath conceiv'd an unſpeakable Contentment in the Action.</p>
+            <p>Neither ſhall you need to wonder, Sir, that all men here whatſoever take themſelves to be ſharers in this <hi>Jubile;</hi> for though every individual perſon, 'tis true, is not immediately concern'd in the <hi>Debt,</hi> yet I muſt tell you, Sir, every man is concern'd in the <hi>Juſtice</hi> and <hi>Generoſity</hi> of his Prince, though ſhower'd down upon his Fellow-Subjects. To ſay nothing, that there be few per<g ref="char:EOLhyphen"/>ſons in the Kingdom, but will, by this Emanation of His <hi>Majeſty's Clemency,</hi> receive direct and real advan<g ref="char:EOLhyphen"/>tage to Themſelves, or Relations, in ſome Capacity or other.</p>
+            <p>Sir, The Fraternity of Kings are the Subjects of God, as the reſt of Mankind are of Kings (whom the Scri<g ref="char:EOLhyphen"/>ptures likewiſe call Gods) And can there be any thing more Divine, than for a Prince thus to handle his Sub<g ref="char:EOLhyphen"/>jects with the Paſſion and Tenderneſs, with the which he deſires the Immortal God ſhould treat his own Royal Perſon? The great Roman Emperors valu'd themſelves more upon their Stile of <hi>Fathers of the Countrey,</hi> than upon all their other Auguſt and Illuſtrious Attributes, becauſe that Compellation expreſt (as they conceiv'd) ſome Affinity with Divine Honour. <hi>If thou art a God, as thou pretendeſt</hi> (ſaid the <hi>Scythian</hi>
+               <note n="*" place="margin">
+                  <hi>Qu. Cur<g ref="char:EOLhyphen"/>tius,</hi> lib. 7.</note> Ambaſſadors to the Great <hi>Alexander,</hi> when he was about to invade their Maſters Territories) <hi>thou oughteſt to be a Bene<g ref="char:EOLhyphen"/>factor
+<pb n="6" facs="tcp:57556:4"/>
+                  <!-- PDF PAGE 28 -->to poor Mortals, not to commit Rapines upon them, for in doing ſo, thou wilt be leſs than a Man.</hi> And it was not without Myſtery, that God choſe the firſt Governours of His People from the <hi>Flocks</hi> and the <hi>Sheepfolds,</hi> that they might be the better inſtructed to become the indulgent <hi>Shepherds</hi> and <hi>Paſtors</hi> of Mankind. Nay, we find, that the ve<g ref="char:EOLhyphen"/>ry firſt Queſtion made by the firſt<note n="*" place="margin">Saul.</note> King that God Almighty appointed in the World, was, <hi>[Quid eſt huic populo quod plorat?] What aileth this People that they weep?</hi>
+            </p>
+            <p>Without all peradventure, Sir, the <hi>Redreſs of Grie<g ref="char:EOLhyphen"/>vances</hi> of this kind, and the obliging of the World with <hi>Clemency</hi> and <hi>Juſtice,</hi> is the very Pinnacle of that Renown, which a Mortal Nature can hope to attain to in this Life. This was the way, Sir, this was the way by which the <hi>Hero's</hi> of old time conſecrated their names to <hi>Immortality!</hi> by which they aſcended the Tri<g ref="char:EOLhyphen"/>umphal Chariot of Glory! and were at length aſcrib'd into the number of the <hi>Deities!</hi> And if this be a true Doctrine, (as I think no man will doubt it) how pre<g ref="char:EOLhyphen"/>cious and ſweet will the memory of his <hi>Majeſty's</hi> Name be to the Preſent and Future Ages, by reaſon of this ſo magnificent an expreſſion of His <hi>Grace</hi> and <hi>Juſtice</hi> to His People.</p>
+            <p>Sir, You cannot with any reaſon ſuppoſe me herein to play the <hi>Paraſite</hi> or <hi>Flatterer,</hi> (you well know the averſions of my Nature to all the ſervile Arts of that kind) the true and ſubſtantial Greatneſs and Glory of this Action will acquit me from all thoſe little Surmiſes, and Suſpicions. For my own part, I cannot but declare to you, and all the World, that if the like Act of <hi>Juſtice</hi> had been done by a Prince that Reign'd here a
+<pb n="7" facs="tcp:57556:4"/>
+               <!-- PDF PAGE 28 -->thouſand years ago; or by a King that at this time in<g ref="char:EOLhyphen"/>habited the fartheſt parts of the <hi>Indies,</hi> I could not but have conceiv'd in my mind a ſingular Deference and Ve<g ref="char:EOLhyphen"/>neration for the Action. And withall I muſt tell you, Sir, That the <hi>Envy</hi> and <hi>Diſcontents</hi> are great, and in no wiſe to be excuſed, when the moſt laudable Actions of a Prince or State, and which ought to give the greateſt Satisfaction, are yet taken in ill ſenſe, and not thought worthy of that Applauſe and Remarque which is due unto them. Eſpecially when it hath alſo been ſome<g ref="char:EOLhyphen"/>time ſeen, that the beſt Governments, yea, and the beſt Men, are like the choiceſt precious Stones, wherein the leaſt Flaw or Speck is preſently diſcover'd; when as thoſe that are generally foul and corrupted, are not obſerv'd with the ſame Niceneſs and Curioſity.</p>
+            <p>Sir, The People of <hi>Egypt</hi> (they ſay) do preſage the Fertility of the enſuing year, from the gradual In<g ref="char:EOLhyphen"/>undations of their River <hi>Nilus:</hi> I think a man may, with equal reaſon, prognoſticate a great Harveſt of Fe<g ref="char:EOLhyphen"/>licity to this Nation, from this late fructifying Over<g ref="char:EOLhyphen"/>flow of his <hi>Majesty's Justice.</hi> I pretend not to foretel Futurities; but, in ſo plain a caſe, I think, a very weak perſon may undertake to be a <hi>Prophet:</hi> You will give me leave then to inſtance in two or three particulars which come firſt to my mind.</p>
+            <p>In the firſt place then, this Action will, in all pro<g ref="char:EOLhyphen"/>bability, conduce to the Sedation and Quieting of mens minds, when they ſhall obſerve His <hi>Majeſty</hi>'s ſo ſingular Regard and Tenderneſs to His Subjects <hi>Property</hi> (a word which hath been always Precious and Sacred in this Na<g ref="char:EOLhyphen"/>tion, and I doubt not will for ever ſo continue) that ſo Vaſt and Immenſe a Debt, a Debt, humanely ſpeak<g ref="char:EOLhyphen"/>ing, long ago dead and buried; that a Debt of this
+<pb n="8" facs="tcp:57556:5"/>
+               <!-- PDF PAGE 29 -->nature, I ſay, ſhould be thus honourably reviv'd, and ſecur'd, and yet with ſuch Difficulties too, and <hi>Hare Shifts</hi> to the Crown (as His <hi>Majeſty</hi> was lately pleas'd to expreſs himſelf in an Audience of the whole King<g ref="char:EOLhyphen"/>dom) This, this, Sir, is a matter not altogether to be neglected, and (as my <hi>Lord Chancellor</hi> then alſo ſaid) <hi>None but a Juſt and Generous Prince would ever have un<g ref="char:EOLhyphen"/>dergone it.</hi>
+            </p>
+            <p>I remember<note n="*" place="margin">In Prafa<g ref="char:EOLhyphen"/>tione ad Vi<g ref="char:EOLhyphen"/>tam <hi>Jul. A<g ref="char:EOLhyphen"/>gricolae.</hi>
+               </note> 
+               <hi>Tacitus</hi> doth tell us (not without ſome Oſtentation) that his <hi>Divus Nerva</hi> and <hi>Divus Trajanus</hi> (two excellent Emperours it muſt be con<g ref="char:EOLhyphen"/>feſt) had the knack of rightly mixing and tempering [<hi>Principatum &amp; Libertatem</hi>] <hi>Sovereignty</hi> and <hi>Liberty,</hi> two things (he adds) which before thoſe times did not often keep company together. Our <hi>King</hi> hath, in this Action, diſcover'd himſelf a great Maſter in the ſame Art, and therefore deſerves equal Glory with them. And his <hi>Majeſty</hi> ſeems to have acted here<g ref="char:EOLhyphen"/>in according to that <hi>Great Saying</hi> of His Royal Grand<g ref="char:EOLhyphen"/>father <hi>King James,</hi> (which my <hi>Lord Chancellor</hi>
+               <note n="*" place="margin">Advance<g ref="char:EOLhyphen"/>ment of Learning, <hi>lib.</hi> 7. <hi>cap.</hi> 2.</note> 
+               <hi>Ba<g ref="char:EOLhyphen"/>con</hi> could not be perſuaded, but that King ſpake by nothing leſs than a Divine Inſpiration) viz. <hi>That Kings ſhould rule by the Laws of their Kingdoms, as God did by the Laws of Nature; and ought as rarely to put in uſe their Prerogative, which tranſcends Laws, as we ſee God put in <g ref="char:V">Ʋ</g>ſe his power of working Mi<g ref="char:EOLhyphen"/>racles.</hi>
+            </p>
+            <p>Secondly, This Action will undoubtedly have a ſweet Influence upon the Nation in point of <hi>Trade, Commerce,</hi> and indeed all <hi>Negotiations</hi> and <hi>Buſineſs</hi> of what nature ſoever. I have obſerv'd to you hereto<g ref="char:EOLhyphen"/>fore, <hi>That Money is the Bloud of the Body Politick, and that if the Circulation thereof he ſtopt in one Member, that
+<pb n="9" facs="tcp:57556:5"/>
+                  <!-- PDF PAGE 29 -->Blood can never be tranſmitted to the Neighbouring Veins, and thereupon not only that part, but the whole Body, in fine, becomes fev'riſh and diſtemper'd.</hi> But this Gratious Act of His <hi>Majeſty</hi> hath remov'd the Obſtruction, open'd again the Paſſages and Current of the Blood, and thereupon the Body will be re<g ref="char:EOLhyphen"/>ſtor'd to its priſtine Health and Vigor. To ſay no<g ref="char:EOLhyphen"/>thing, that as the Sea will now feed the Rivers and little Brooks, ſo theſe again will, in good meaſure, disburthen themſelves into the Sea in matter of <hi>Par<g ref="char:EOLhyphen"/>liamentary</hi> Taxes, Cuſtoms, Impoſts, and other Re<g ref="char:EOLhyphen"/>turns of that Nature; the Advantage being recipro<g ref="char:EOLhyphen"/>cal both to <hi>King</hi> and <hi>People.</hi>
+            </p>
+            <p>Laſtly, (and which perhaps will be more conſide<g ref="char:EOLhyphen"/>rable than all the reſt, in the opinion of all good <hi>Engliſhmen</hi>) <hi>The Sacred Honour and Declarations of the King, the Common Faith, and Laws of the Na<g ref="char:EOLhyphen"/>tion</hi> (which were indeed the Hoſtages and Gua<g ref="char:EOLhyphen"/>ranty for this Debt, and ought to be as immove<g ref="char:EOLhyphen"/>able as the Centre of the Earth) <hi>will be hereby preſerv'd Chaſte and Inviolate.</hi> States and Communi<g ref="char:EOLhyphen"/>ties, Sir, are ſupported by Fame and Reputation, as well as Individuals, and ſingle Bodies. And the honourable Performances of publick Sanctions, are the Arteries and Ligaments which hold together a Body Politick, which may not be cut aſſunder, or looſed without a manifeſt Peril to the Whole. This Royal Balſome, Sir, hath now perfectly heal'd up the Wound, and a new and more vigorous <hi>Phoenix</hi> of Credit and Reputation will ariſe again, as it were, out of its own Aſhes.</p>
+            <p>Sir, After the time of that excellent Prince <hi>Tra<g ref="char:EOLhyphen"/>jan,</hi> there was, amongſt the <hi>Romans,</hi> under every re<g ref="char:EOLhyphen"/>nowned
+<pb n="10" facs="tcp:57556:6"/>
+               <!-- PDF PAGE 30 -->Emperor, a form of Acclamation of this kind, <hi>Long may'ſt thou live,</hi> Antonius! <hi>Long may'ſt thou reign,</hi> Theodoſius! <hi>happier than</hi> Auguſtus, <hi>better than</hi> Trajan! I am ſure we of <hi>England</hi> may, with much more reaſon, proclaim, <hi>Long may'ſt Thou live,</hi> CHARLES THE SECOND! <hi>the grand Ex<g ref="char:EOLhyphen"/>emplar of Clemency to all the Potentates of the Earth! Long may'ſt Thou Reign here in Happineſs and Glory! and make a ſlow, though ſure, Return to Heaven! And let this Illuſtrious and Immortal Act of Thy Juſtice, fill the mouth of Fame, and be reſounded with loud Ap<g ref="char:EOLhyphen"/>plauſe throughout the whole <g ref="char:V">Ʋ</g>niverſe, as long as the Sun and Moon endure!</hi> So prayeth,</p>
+            <closer>
+               <signed>
+                  <hi>SIR,</hi> Your affectionate Friend and Servant, THO. TURNOR.</signed>
+               <dateline>
+                  <hi>Grays-Inn,</hi> 
+                  <date>
+                     <hi>May</hi> 7<hi rend="sup">th</hi> 1677.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
